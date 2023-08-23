@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "drak" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "gubam의 지식창고"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "gubam"
 description              : "An amazing website."
 url                      : "https://gubam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ author:
   name             : "조규범"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "열심히 살기!"
-  location         : ""
+  location         : "korea"
   email            : "whrb106@hanyang.ac.kr"
   links:
     - label: "Email"
