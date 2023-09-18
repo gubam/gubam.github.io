@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gubam의 블로그"
+title                    : "Gubam Tech"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "gubam"
+name                     : "Gubam"
 description              : "An amazing website."
 url                      : "https://gubam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
