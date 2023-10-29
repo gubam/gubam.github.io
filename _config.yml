@@ -15,9 +15,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Gubam의 공부일기"
+title                    : "Gubam의 공부"
 title_separator          : "-"
-subtitle                 : "하고싶은 공부하는 대학생"
+subtitle                 : #""
 name                     : "Gubam"
 description              : "여러가지 알고싶다."
 url                      : "https://gubam.github.io"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "gubam"
   avatar           : # 프로필사진path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공부 기록을 남기는 블로그<br>여러가지 공부하는 중 입니다."
+  bio              : "공부 기록을 남기는 <br> 블로그입니다!"
   location         : "Republic of Korea"
   email            : "whrb106@hanyang.ac.kr"
   links:
