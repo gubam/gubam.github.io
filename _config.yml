@@ -11,21 +11,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Gubam Tech"
+locale                   : "ko-KR"
+title                    : "Gubam의 공부일기"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "열심히 살기!"
 name                     : "Gubam"
-description              : "An amazing website."
+description              : "여러가지 알고싶다.."
 url                      : "https://gubam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/gubam"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : # 이미지부분 path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "하고싶은 공부하는 대학생"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
