@@ -17,15 +17,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Gubam의 공부일기"
 title_separator          : "-"
-subtitle                 : "열심히 살기!"
+subtitle                 : "하고싶은 공부하는 대학생"
 name                     : "Gubam"
-description              : "여러가지 알고싶다.."
+description              : "여러가지 알고싶다."
 url                      : "https://gubam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/gubam"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # 이미지부분 path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "하고싶은 공부하는 대학생"
+masthead_title           : "Gubam의 공부일기"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,9 +104,9 @@ analytics:
 # Site Author
 author:
   name             : "gubam"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "기록을 남기는 블로그"
-  location         : "Korea"
+  avatar           : # 프로필사진path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "공부 기록을 남기는 블로그<br>여러가지 공부하는 중 입니다."
+  location         : "Republic of Korea"
   email            : "whrb106@hanyang.ac.kr"
   links:
     - label: "Email"
