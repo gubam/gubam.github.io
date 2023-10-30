@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Category"
-    url: "/categories/"
+  - title: "Home"
+    url: "https://gubam.github.io/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
