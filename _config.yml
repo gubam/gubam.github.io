@@ -25,7 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/gubam"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # 이미지부분 path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Gubam의 공부일기"
+masthead_title           : "공부일기"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
