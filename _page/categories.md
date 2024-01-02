@@ -1,10 +1,7 @@
 ---
-permalink: /category/
-title: "About"
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
+title: "test1"
+layout: archive
+permalink: categories/embedded_c_optimization
+author_profile: true
+types: posts
 ---
-
-
-원하는 자기소개 상세 내용
