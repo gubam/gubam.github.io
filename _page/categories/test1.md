@@ -1,7 +1,7 @@
 ---
 title: "test1"
 layout: archive
-permalink: categories/embedded_c_optimization
+permalink: categories/test1
 author_profile: true
 types: posts
 ---
