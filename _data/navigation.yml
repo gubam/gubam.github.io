@@ -11,12 +11,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-category:
-  - title: "카테고리"
+docs:
+  - title: first
     children:
-      - title: "블로그"
-        url: "/blog"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+      - title: "test1"
+        url: /categories/test1
+  - title: second
+    children:
+      - title: "test2"
+        url: /categories/test2
