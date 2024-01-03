@@ -14,10 +14,15 @@ main:
 docs:
   - title: programming
     children:
-      - title: "test1"
-        url: /categories/test1
+      - title: "알고리즘"
+        url: /categories/algorithm
         
   - title: AI
     children:
-      - title: "test2"
-        url: /categories/test2
+      - title: "딥러닝"
+        url: /categories/dl
+
+  - title: life
+    children:
+      - title: "일상"
+        url: /categories/life
