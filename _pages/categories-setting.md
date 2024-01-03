@@ -1,7 +1,7 @@
 ---
 title: "categoires"
 layout: archive
-permalink: /programming
+permalink: /algorithm
 ---
 
 
