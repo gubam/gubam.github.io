@@ -22,7 +22,7 @@ docs:
       #- title: "딥러닝"
        # url: /categories/dl
 
-  - title: life
+  - title: 🌱life
     children:
-      - title: "일상"
+      - title: "일상이야기"
         url: /life
