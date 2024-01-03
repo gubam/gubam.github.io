@@ -1,5 +1,5 @@
 ---
-title: "categoires"
+title: "알고리즘"
 layout: archive
 permalink: /algorithm
 ---
