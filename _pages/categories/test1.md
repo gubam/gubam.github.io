@@ -1,7 +1,7 @@
 ---
 title: "test1"
 layout: archive
-permalink: categories/test1
+permalink: /프로그래밍
 author_profile: true
 types: posts
 ---
