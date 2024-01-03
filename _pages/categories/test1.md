@@ -3,6 +3,7 @@ title: "test1"
 layout: archive
 categories:
   -  categories/test1
+permalink: categories/test1
 author_profile: true
 types: posts
 ---
