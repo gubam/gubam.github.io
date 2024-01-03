@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: programming
+  - title: 💻programming
     children:
       - title: "알고리즘"
         url: /categories/algorithm
