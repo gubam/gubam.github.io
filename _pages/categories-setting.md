@@ -1,9 +1,9 @@
 ---
 title: "categoires"
 layout: archive
-permalink: /categoires
+permalink: /programming
 ---
 
 
-{% assign posts = site.categories.blog %}
+{% assign posts = site.categories.programming %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
