@@ -15,7 +15,7 @@ docs:
   - title: 💻programming
     children:
       - title: "알고리즘"
-        url: /categories/algorithm
+        url: /algorithm
         
   - title: AI
     children:
@@ -25,4 +25,4 @@ docs:
   - title: life
     children:
       - title: "일상"
-        url: /categories/life
+        url: /life
