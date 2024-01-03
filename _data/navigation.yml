@@ -16,11 +16,13 @@ docs:
     children:
       - title: "알고리즘"
         url: /categories/algorithm
+      - title: "알고리즘"
+        url: /categories/algorithm
         
   - title: AI
     children:
-      - title: "딥러닝"
-        url: /categories/dl
+      #- title: "딥러닝"
+       # url: /categories/dl
 
   - title: life
     children:
