@@ -2,6 +2,7 @@
 title: "알고리즘"
 layout: archive
 permalink: /algorithm
+author_profile: true
 ---
 
 
