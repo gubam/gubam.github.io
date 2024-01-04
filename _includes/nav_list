@@ -20,9 +20,9 @@
           {% for child in nav.children %}
 
           {% assign post_cnt = 0 %}
-          {% for category in site.categories %}
-            {% if category[0] == child.category  %}
-                {% assign post_cnt = category[1].size %}
+          {% for docs in site.categories %}
+            {% if docs[0] == child.category  %}
+                {% assign post_cnt = docs[1].size %}
             {% endif %}
           {% endfor %}
 
