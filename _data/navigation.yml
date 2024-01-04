@@ -16,16 +16,20 @@ docs:
     children:
       - title: "C++"
         url: /cpp
+        category: "cpp"
       - title: "Python"
         url: /python
+        category: "python"
       - title: "기타"
         url: /lang
+        category: "lang"    
         
   - title: 💻programming
     children:
       - title: "알고리즘"
         url: /algorithm
-        
+        category: "algorithm"
+ 
   - title: AI
     children:
       #- title: "딥러닝"
@@ -35,3 +39,4 @@ docs:
     children:
       - title: "일상이야기"
         url: /life
+        category: "life"
