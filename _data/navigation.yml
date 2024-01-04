@@ -12,6 +12,15 @@ main:
   #   url: /sitemap/
 
 docs:
+  - title: 📖language
+    children:
+      - title: "C++"
+        url: /cpp
+      - title: "Python"
+        url: /python
+      - title: "기타"
+        url: /lang
+        
   - title: 💻programming
     children:
       - title: "알고리즘"
