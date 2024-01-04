@@ -1,5 +1,5 @@
 ---
-title: "categoires"
+title: "일상이야기"
 layout: archive
 permalink: /life
 ---
