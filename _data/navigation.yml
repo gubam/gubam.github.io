@@ -35,8 +35,15 @@ docs:
       #- title: "딥러닝"
        # url: /categories/dl
 
+  - title: ✏️mathematics
+    children:
+      - title: "선형대수"
+        url: /linear
+        category: "linear"
+
   - title: 🌱life
     children:
       - title: "일상이야기"
         url: /life
         category: "life"
+
