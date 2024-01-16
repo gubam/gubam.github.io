@@ -40,7 +40,12 @@ docs:
       - title: "선형대수"
         url: /linear
         category: "linear"
-
+        
+  - title: 📕study
+    children:
+      - title: "컴퓨터 비전"
+        url: /cv
+        category: "cv"
   - title: 🌱life
     children:
       - title: "일상이야기"
