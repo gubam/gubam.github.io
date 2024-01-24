@@ -38,11 +38,11 @@ print(sys.getsizeof(string_))
 print(sys.getsizeof(float_))
 ```
 
-![size 확인](%5BPython%5D%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%209bb71ba1eb094e40923bd6b4ed02ad5a/Untitled.png)
+![size 확인](https://github.com/gubam/gubam.github.io/assets/109836946/4ec501ed-823f-49b1-a8f6-d03f9c729843)
 
 size 확인
 
-![type 확인](%5BPython%5D%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%209bb71ba1eb094e40923bd6b4ed02ad5a/Untitled%201.png)
+![type 확인](https://github.com/gubam/gubam.github.io/assets/109836946/d8fded05-1c19-4d56-ac68-10b70ad9c0ba)
 
 type 확인
 
@@ -89,9 +89,9 @@ print(sys.getsizeof(list_bool))
 print(sys.getsizeof(list_float))
 ```
 
-![Untitled](%5BPython%5D%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%209bb71ba1eb094e40923bd6b4ed02ad5a/Untitled%202.png)
+![Untitled](https://github.com/gubam/gubam.github.io/assets/109836946/70586613-2d32-4967-9b2a-6d20f86b5cce)
 
-![Untitled](%5BPython%5D%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%209bb71ba1eb094e40923bd6b4ed02ad5a/Untitled%203.png)
+![Untitled](https://github.com/gubam/gubam.github.io/assets/109836946/d2b76b0e-8b18-4b24-bfeb-d75274a8b593)
 
 - 우선 왼쪽의 코드로 아무것도 들어 있지 않은 기본 리스트는 56바이트가 나왔고 자료 한 개에 8바이트가 추가되는 것을 볼 수 있다. 다른 자료형의 경우에도 확인을 해보기 위해서 오른쪽의 코드를 입력해 보았다.
 
