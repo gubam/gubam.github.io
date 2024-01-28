@@ -27,7 +27,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # 이미지부분 path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : #"Gubam's blog"
 # breadcrumbs            : false # true, false (default)
-#words_per_minute         : 200
+words_per_minute         : 200
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
