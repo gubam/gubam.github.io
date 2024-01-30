@@ -42,7 +42,7 @@ print(sys.getsizeof(string_))
 print(sys.getsizeof(float_))
 ```
 
-![size 확인](https://github.com/gubam/gubam.github.io/assets/109836946/4ec501ed-823f-49b1-a8f6-d03f9c729843)  ![type 확인](https://github.com/gubam/gubam.github.io/assets/109836946/d8fded05-1c19-4d56-ac68-10b70ad9c0ba)
+![size 확인](https://github.com/gubam/gubam.github.io/assets/109836946/4ec501ed-823f-49b1-a8f6-d03f9c729843)  ![type 확인](https://github.com/gubam/gubam.github.io/assets/109836946/016bd130-5ef3-4afb-bfaa-08c3133a3517)
 
 
 - 위의 사진 같은 결과 같이 나왔고 이를 통해 integer 28, boolean 28, char 50, string 54, float 24 바이트로 나왔다. 이는 기존의 C혹은 C++에서 생각하고 있던 자료형의 사이즈와 많은 차이를 보인다. 이에 대해서 찾아보니 여러 글이 있어서 이는 다음에 찾아보겠다.
