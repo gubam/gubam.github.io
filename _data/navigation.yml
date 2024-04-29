@@ -54,6 +54,13 @@ docs:
         url: /micro
         category: "micro"
         
+  - title: 🤖robotics
+    children:
+      - title: "ROS2"
+        url: /ros2
+        category: "ros2"
+
+        
   - title: 🌱life
     children:
       - title: "일상이야기"
