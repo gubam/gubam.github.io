@@ -30,9 +30,13 @@ ROS2 Service 기초
 - Service란 여러개의 노드가 통신을 하는 방법중 한개로 call-and-response model 즉 요청을 하면 그 요청에 대한 응답을 하는 모델이다.  위의 그림을 보면 조금 더 직관적으로 이해를 할 수 있다.
 - 왼쪽은 Service Client 즉 요청을 하는 노드이고 우측 위쪽은 Service Server 노드로 요청에 대한 응답을 하는 노드이다. 만약 client 노드가 어떤 서비스를 형식에 맞게 요청을 하면 그에 대한 응답을 해주는 구조이다.
 - 단 응답은 꼭 존재하지 않아도 된다. (어떤 것을 실행하던지 저장을 하던지 뭔가를 하겠지?)
+
+  
 <br>
 
 ---
+
+
 # 2. 기본 명령어
 
 ```bash
@@ -82,3 +86,5 @@ ros2 service call /spawn turtlesim/srv/Spawn "{x: 2, y: 2, theta: 0.2, name: 'gu
 
 > service의 간단한 사용법과 구조를 살펴보았다. 아직 시작이라서 틀린 정보가 많을 수 있으니 공부를 하면서 조금씩 채워가겠다.
 >
+
+출처 : https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html
