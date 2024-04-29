@@ -12,17 +12,16 @@ last_modified_at: 2024-04-29
 <br>
 ROS2 Service 기초
 <br>
-# Service 기초
-
-Created by: 조규범
-Last edited: April 29, 2024 9:51 PM
 
 # 0. Service 기초
 
 > ros에서 기본이 되는 단위들이 존재한다. 그 중에서 Service의 기본적인 사용법에 대해서 알아보았다. (책과 사이트 따라서 turtlesim을 이용해서 공부를 하였다.)
-> 
+>
+
+<br>
 
 ---
+
 
 # 1. Service란?
 ![ros.org](https://github.com/gubam/gubam.github.io/assets/109836946/037d1086-ebb4-44e7-950b-ad3557110def)
@@ -31,9 +30,9 @@ Last edited: April 29, 2024 9:51 PM
 - Service란 여러개의 노드가 통신을 하는 방법중 한개로 call-and-response model 즉 요청을 하면 그 요청에 대한 응답을 하는 모델이다.  위의 그림을 보면 조금 더 직관적으로 이해를 할 수 있다.
 - 왼쪽은 Service Client 즉 요청을 하는 노드이고 우측 위쪽은 Service Server 노드로 요청에 대한 응답을 하는 노드이다. 만약 client 노드가 어떤 서비스를 형식에 맞게 요청을 하면 그에 대한 응답을 해주는 구조이다.
 - 단 응답은 꼭 존재하지 않아도 된다. (어떤 것을 실행하던지 저장을 하던지 뭔가를 하겠지?)
+<br>
 
 ---
-
 # 2. 기본 명령어
 
 ```bash
@@ -59,7 +58,7 @@ string name # Optional.  A unique name will be created and returned if this is e
 string name
 ```
 
-- 위의 ‘---’를 기준으로 위쪽은 요청하는 자료의 구조 그리고 아래는 응답을 하는 자료의 구조이다. 한 마디로 float32의 x, y, theta와 string 의 name을 받게 되면 name을 응답으로 뱉어내는 것이다.
+- 위의 "---"를 기준으로 위쪽은 요청하는 자료의 구조 그리고 아래는 응답을 하는 자료의 구조이다. 한 마디로 float32의 x, y, theta와 string 의 name을 받게 되면 name을 응답으로 뱉어내는 것이다.
 
 ```docker
 ros2 service call <service_name> <service_type> <arguments>
@@ -74,6 +73,8 @@ ros2 service call /spawn turtlesim/srv/Spawn "{x: 2, y: 2, theta: 0.2, name: 'gu
 
 - turtlesim의 /spawn 서비스를 기준으로 위와 같이 요청을 한다. 여기서 arguments를 적을 때 띄어쓰기를 유의해서 적어주어야 한다.
 - 위와 같은 요청을 하면 turtlesim에 거북이 한 마리가 설정한 위치에 더 생기고 해당 namespace(gubam)에 대한 서비스도 추가적으로 생기게 될 것이다.
+  
+<br>
 
 ---
 
