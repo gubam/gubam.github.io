@@ -25,10 +25,8 @@ Last edited: April 29, 2024 9:51 PM
 ---
 
 # 1. Service란?
+![ros.org](https://github.com/gubam/gubam.github.io/assets/109836946/037d1086-ebb4-44e7-950b-ad3557110def)
 
-![[https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html)](Service%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%200e51e7d9f79044059d02d25472fbc8a0/Untitled.png)
-
-[https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html)
 
 - Service란 여러개의 노드가 통신을 하는 방법중 한개로 call-and-response model 즉 요청을 하면 그 요청에 대한 응답을 하는 모델이다.  위의 그림을 보면 조금 더 직관적으로 이해를 할 수 있다.
 - 왼쪽은 Service Client 즉 요청을 하는 노드이고 우측 위쪽은 Service Server 노드로 요청에 대한 응답을 하는 노드이다. 만약 client 노드가 어떤 서비스를 형식에 맞게 요청을 하면 그에 대한 응답을 해주는 구조이다.
