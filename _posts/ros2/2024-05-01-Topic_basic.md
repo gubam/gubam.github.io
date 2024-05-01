@@ -52,7 +52,7 @@ ros2 topic list -t
 ```
 
 - 위의 명령어를 사용하게 되면 type도 한번에 출력을 할 수 있다.
-- 
+  
 <br>
 
 ```docker
@@ -70,7 +70,7 @@ ros2 topic info <topic_name>
 ```
 
 - 위의 명령어는 topic의 정보를 확인하는 명령어로 type과 publisher와 subscriber의 수를 확인 할 수 있다.
-- 
+  
 <br>
 
 ```docker
