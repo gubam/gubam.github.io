@@ -46,7 +46,7 @@ docs:
         category: "linear"
         
   - title: 📕study
-    children:
+    #children: 
  
         
   - title: 🤖robotics
