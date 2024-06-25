@@ -47,12 +47,7 @@ docs:
         
   - title: 📕study
     children:
-      - title: "신호와 시스템"
-        url: /signal
-        category: "signal"
-      - title: "마이크로프로세서"
-        url: /micro
-        category: "micro"
+ 
         
   - title: 🤖robotics
     children:
