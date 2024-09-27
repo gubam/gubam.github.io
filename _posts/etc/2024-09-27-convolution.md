@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[공부] Convolution연산"
+title: "[공부] Convolution 연산"
 
 categories:
   - etc
@@ -10,12 +10,8 @@ last_modified_at: 2024-09-27
 
 ---
 <br>
-Convloution
+Convloution의 의미
 <br>
-
-# Convloution의 의미
-
-Tags: 신호처리
 
 # 0. 시작
 
