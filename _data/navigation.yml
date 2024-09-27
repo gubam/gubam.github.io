@@ -46,7 +46,10 @@ docs:
         category: "linear"
         
   - title: 📕study
-    #children: 
+    children:
+      - title: "끄적끄적"
+        url: /etc
+        category: "etc"      
  
         
   - title: 🤖robotics
