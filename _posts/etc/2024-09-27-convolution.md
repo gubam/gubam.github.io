@@ -62,7 +62,7 @@ Tags: 신호처리
 - 여러 과목에서 한번은 나오는 연산이 컨볼루션 연산이다. 이 연산의 수식은 위와 같고 보통 뒤집어서 한 개씩 이동 시킨다고 표현을 한다.
 - 이 연산에서 가장 궁금했던 점은 왜 한 개의 sequence는 뒤집어서 이동을 시킬까 였다. 그 이유는 0의 입력부터 출력이 나와야 하기 때문이다.
 
-![입력](https://github.com/user-attachments/assets/7024b901-5a76-444b-ba61-3b4bfbeb10f1) |![출력](https://github.com/user-attachments/assets/b3f4c20f-c7d4-4522-b96b-bd79b84aad0b)
+![입력](https://github.com/user-attachments/assets/7024b901-5a76-444b-ba61-3b4bfbeb10f1){: width="50%" height="50%"} |![출력](https://github.com/user-attachments/assets/b3f4c20f-c7d4-4522-b96b-bd79b84aad0b){: width="50%" height="50%"}
 --- | --- |
 - 위 의 입력과 임펄스 응답을 예시로 임펄스 응답이 단순하기 때문에 입력 신호를 뒤집어서 이동을 시킨다고 생각하자
 - 입력 신호를 뒤집고 임펄스 응답의 -무한대부터 쭉 이동 시키면 크기가 0.5인 신호부터 임펄스 응답을 내게 된다.
