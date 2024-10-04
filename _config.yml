@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "Gubam"
-  avatar           : # 프로필사진path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공부 기록을 남기는 <br> 블로그입니다!"
+  avatar           : "/assets/profile.jpg"
+  bio              : "야구 좋아하는 사람의 <br> 공부 기록입니다!"
   #location         : "Republic of Korea"
   email            : "whrb106@hanyang.ac.kr"
   links:
