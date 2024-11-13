@@ -57,7 +57,10 @@ docs:
       - title: "ROS2"
         url: /ros2
         category: "ros2"
-
+    children:
+      - title: "임베디드"
+        url: /embed
+        category: "embed"
         
   - title: 🌱life
     children:
