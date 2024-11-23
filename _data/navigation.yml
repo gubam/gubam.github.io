@@ -66,4 +66,7 @@ docs:
       - title: "일상이야기"
         url: /life
         category: "life"
+      - title: "경험"
+        url: /experience
+        category: "experience"
 
